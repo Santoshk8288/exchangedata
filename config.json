@@ -1,0 +1,17 @@
+{
+	"development": {
+		"dbHost": "localhost",
+		"dbUser": "root",
+		"dbPassword": "",
+		"dbName": "exchange_data",
+		"logLevel": "info"
+	},
+	"production": {
+		"dbHost": "INSERTHERE",
+		"dbUser": "INSERTHERE",
+		"dbPass": "INSERTHERE",
+		"database": "INSERTHERE",
+		"jwtToken": "INSERTHERE",
+    "logLevel": "info"
+	}
+}

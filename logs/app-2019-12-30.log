@@ -1,0 +1,71 @@
+{"message":"No result found.","level":"error","timestamp":"2019-12-30T06:48:26.857Z"}
+{"message":"No result found.","level":"error","timestamp":"2019-12-30T07:11:40.270Z"}
+{"message":"No result found.","level":"error","timestamp":"2019-12-30T07:11:59.301Z"}
+{"message":"No result found.","level":"error","timestamp":"2019-12-30T07:12:24.164Z"}
+{"message":"No result found.","level":"error","timestamp":"2019-12-30T07:12:47.269Z"}
+{"message":"No result found.","level":"error","timestamp":"2019-12-30T07:13:16.154Z"}
+{"message":"No result found.","level":"error","timestamp":"2019-12-30T07:13:28.652Z"}
+{"message":"No result found.","level":"error","timestamp":"2019-12-30T07:13:38.813Z"}
+{"message":"No result found.","level":"error","timestamp":"2019-12-30T07:13:55.973Z"}
+{"message":"No result found.","level":"error","timestamp":"2019-12-30T07:14:30.619Z"}
+{"message":"No result found.","level":"error","timestamp":"2019-12-30T07:14:42.349Z"}
+{"message":"No result found.","level":"error","timestamp":"2019-12-30T07:14:51.993Z"}
+{"message":"No result found.","level":"error","timestamp":"2019-12-30T07:15:13.677Z"}
+{"message":"No result found.","level":"error","timestamp":"2019-12-30T07:15:29.900Z"}
+{"message":"No result found.","level":"error","timestamp":"2019-12-30T07:15:50.413Z"}
+{"message":"No result found.","level":"error","timestamp":"2019-12-30T07:16:29.210Z"}
+{"message":"No result found.","level":"error","timestamp":"2019-12-30T07:16:34.552Z"}
+{"message":"No result found.","level":"error","timestamp":"2019-12-30T07:16:34.825Z"}
+{"message":"No result found.","level":"error","timestamp":"2019-12-30T07:16:38.417Z"}
+{"message":"No result found.","level":"error","timestamp":"2019-12-30T07:18:57.793Z"}
+{"message":"coinID: binancecoin","level":"info","timestamp":"2019-12-30T07:23:18.062Z"}
+{"message":"coinID: binancecoin","level":"info","timestamp":"2019-12-30T07:23:23.776Z"}
+{"message":"marketcap: 360130.90345775, volume: 90759.50173652632","level":"info","timestamp":"2019-12-30T07:23:26.545Z"}
+{"message":"tvev: 3.967969155485289","level":"info","timestamp":"2019-12-30T07:23:26.546Z"}
+{"message":"coinID: zb-token","level":"info","timestamp":"2019-12-30T07:23:26.547Z"}
+{"message":"marketcap: 53781, volume: 67294.8542848812","level":"info","timestamp":"2019-12-30T07:23:29.111Z"}
+{"message":"tvev: 0.7991844335129603","level":"info","timestamp":"2019-12-30T07:23:29.112Z"}
+{"message":"coinID: huobi-token","level":"info","timestamp":"2019-12-30T07:23:29.112Z"}
+{"message":"coinID: binancecoin","level":"info","timestamp":"2019-12-30T07:23:29.476Z"}
+{"message":"marketcap: 360130.90345775, volume: 90759.50173652632","level":"info","timestamp":"2019-12-30T07:23:30.209Z"}
+{"message":"tvev: 3.967969155485289","level":"info","timestamp":"2019-12-30T07:23:30.212Z"}
+{"message":"coinID: zb-token","level":"info","timestamp":"2019-12-30T07:23:30.213Z"}
+{"message":"marketcap: 53781, volume: 67294.8542848812","level":"info","timestamp":"2019-12-30T07:23:30.845Z"}
+{"message":"tvev: 0.7991844335129603","level":"info","timestamp":"2019-12-30T07:23:30.846Z"}
+{"message":"coinID: huobi-token","level":"info","timestamp":"2019-12-30T07:23:30.846Z"}
+{"message":"coinID: binancecoin","level":"info","timestamp":"2019-12-30T07:23:32.883Z"}
+{"message":"marketcap: 360130.90345775, volume: 90759.50173652632","level":"info","timestamp":"2019-12-30T07:23:33.624Z"}
+{"message":"tvev: 3.967969155485289","level":"info","timestamp":"2019-12-30T07:23:33.629Z"}
+{"message":"coinID: zb-token","level":"info","timestamp":"2019-12-30T07:23:33.629Z"}
+{"message":"marketcap: 53781, volume: 67294.8542848812","level":"info","timestamp":"2019-12-30T07:23:34.251Z"}
+{"message":"tvev: 0.7991844335129603","level":"info","timestamp":"2019-12-30T07:23:34.252Z"}
+{"message":"coinID: huobi-token","level":"info","timestamp":"2019-12-30T07:23:34.253Z"}
+{"message":"marketcap: 191390, volume: 76385.7827821634","level":"info","timestamp":"2019-12-30T07:23:35.865Z"}
+{"message":"tvev: 2.50557097183654","level":"info","timestamp":"2019-12-30T07:23:35.865Z"}
+{"message":"coinID: okb","level":"info","timestamp":"2019-12-30T07:23:35.866Z"}
+{"message":"marketcap: 109157.99999999999, volume: 84985.54663562009","level":"info","timestamp":"2019-12-30T07:23:38.586Z"}
+{"message":"tvev: 1.2844301686735102","level":"info","timestamp":"2019-12-30T07:23:38.587Z"}
+{"message":"coinID: kucoin-shares","level":"info","timestamp":"2019-12-30T07:23:38.587Z"}
+{"message":"marketcap: 21853.97463129, volume: 3974.362137287913","level":"info","timestamp":"2019-12-30T07:23:41.322Z"}
+{"message":"tvev: 5.498737627921107","level":"info","timestamp":"2019-12-30T07:23:41.323Z"}
+{"message":"coinID: bibox-token","level":"info","timestamp":"2019-12-30T07:23:41.323Z"}
+{"message":"marketcap: 3389.45932985, volume: 103924.19085375493","level":"info","timestamp":"2019-12-30T07:23:44.007Z"}
+{"message":"tvev: 0.032614729082853705","level":"info","timestamp":"2019-12-30T07:23:44.008Z"}
+{"message":"coinID: qash","level":"info","timestamp":"2019-12-30T07:23:44.009Z"}
+{"message":"marketcap: 6200, volume: 11510.953938791165","level":"info","timestamp":"2019-12-30T07:23:46.632Z"}
+{"message":"tvev: 0.5386173928736179","level":"info","timestamp":"2019-12-30T07:23:46.633Z"}
+{"message":"coinID: coss","level":"info","timestamp":"2019-12-30T07:23:46.633Z"}
+{"message":"marketcap: 163.56, volume: 84.12754012580416","level":"info","timestamp":"2019-12-30T07:23:49.283Z"}
+{"message":"tvev: 1.9441909243443074","level":"info","timestamp":"2019-12-30T07:23:49.283Z"}
+{"message":"coinID: latoken","level":"info","timestamp":"2019-12-30T07:23:49.284Z"}
+{"message":"marketcap: 12700, volume: 127483.34089245088","level":"info","timestamp":"2019-12-30T07:23:51.822Z"}
+{"message":"tvev: 0.09962085956559717","level":"info","timestamp":"2019-12-30T07:23:51.823Z"}
+{"message":"coinID: bmax","level":"info","timestamp":"2019-12-30T07:23:51.824Z"}
+{"message":"marketcap: 5196.49366519, volume: 9522.227303222939","level":"info","timestamp":"2019-12-30T07:23:54.520Z"}
+{"message":"tvev: 0.5457224974488027","level":"info","timestamp":"2019-12-30T07:23:54.522Z"}
+{"message":"coinID: coinbene-token","level":"info","timestamp":"2019-12-30T07:23:54.523Z"}
+{"message":"marketcap: 1690, volume: 149957.47490834154","level":"info","timestamp":"2019-12-30T07:23:57.040Z"}
+{"message":"tvev: 0.01126986167933928","level":"info","timestamp":"2019-12-30T07:23:57.041Z"}
+{"message":"coinID: leo-token","level":"info","timestamp":"2019-12-30T07:23:57.041Z"}
+{"message":"marketcap: 110491.51837724, volume: 6604.769269172265","level":"info","timestamp":"2019-12-30T07:23:58.884Z"}
+{"message":"tvev: 16.7290504594852","level":"info","timestamp":"2019-12-30T07:23:58.885Z"}

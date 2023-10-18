@@ -1,0 +1,27 @@
+{
+  "name": "coingecko_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "cryptocurrency",
+    "tokenclan",
+    "coingecko"
+  ],
+  "author": "Warren Seah",
+  "license": "ISC",
+  "dependencies": {
+    "coingecko-api": "^1.0.8",
+    "mysql2": "^2.0.2",
+    "node-cron": "^2.0.3",
+    "winston": "^3.2.1",
+    "winston-daily-rotate-file": "^4.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
